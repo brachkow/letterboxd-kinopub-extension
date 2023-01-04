@@ -1,7 +1,6 @@
 {
   "name": "watch-on-kinopub-for-letterboxd-extension",
-  "version": "1.1.0",
-  "main": "index.js",
+  "version": "1.1.1",
   "repository": "git@github.com:brachkow/letterboxd-kinopub-extension.git",
   "author": "Timur Brachkow <33203187+brachkow@users.noreply.github.com>",
   "license": "MIT",
