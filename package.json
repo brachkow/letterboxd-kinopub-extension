@@ -5,9 +5,11 @@
   "author": "Timur Brachkow <33203187+brachkow@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
+    "build:chrome": "crx3 ./src/ --key ./chrome-key.pem --crx ./dist/watch-on-kinopub-for-letterboxd-extension.crx",
     "build:firefox": "env-cmd web-ext sign --source-dir ./src/ --artifacts-dir ./dist/"
   },
   "devDependencies": {
+    "crx3": "^1.1.3",
     "env-cmd": "^10.1.0",
     "web-ext": "^7.4.0"
   }
