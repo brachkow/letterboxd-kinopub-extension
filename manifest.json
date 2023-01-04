@@ -1,5 +1,5 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "Watch on KinoPub for Letterboxd",
   "version": "1.0",
   "description": "Adds a handy button to Letterboxd that searches for movie on KinoPub",
