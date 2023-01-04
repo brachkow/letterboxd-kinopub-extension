@@ -6,7 +6,7 @@
   "author": "Timur Brachkow <33203187+brachkow@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "build:firefox": "env-cmd web-ext sign"
+    "build:firefox": "env-cmd web-ext sign --source-dir ./src/ --artifacts-dir ./dist/"
   },
   "devDependencies": {
     "env-cmd": "^10.1.0",
