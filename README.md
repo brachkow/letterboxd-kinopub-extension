@@ -2,4 +2,4 @@
 
 Adds a handy button to Letterboxd that searches for movie on KinoPub
 
-Works on Firefox, Chrome
+Works on Firefox (and for Chrome, if you manage to pass through their idiotic publishing rules)
